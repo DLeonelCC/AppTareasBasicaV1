@@ -1,2 +1,2 @@
-# Proyecto-Tareas
-Mi primer proyecto con Git prueba, app de tareas
+# Proyecto App-Tareas
+Mi proyecto es una aplicación web simple para registrar tareas, sin bases de datos.
